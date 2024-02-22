@@ -1,0 +1,8 @@
+features:
+
+	add a todo
+	edit a todo
+	complete a todo
+	show list of todos
+	
+need to exit program
